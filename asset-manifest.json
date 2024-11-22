@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mental-math/static/css/main.ba3d394f.css",
+    "main.js": "/mental-math/static/js/main.0f7d3e5e.js",
+    "static/js/787.7f724e7f.chunk.js": "/mental-math/static/js/787.7f724e7f.chunk.js",
+    "index.html": "/mental-math/index.html",
+    "main.ba3d394f.css.map": "/mental-math/static/css/main.ba3d394f.css.map",
+    "main.0f7d3e5e.js.map": "/mental-math/static/js/main.0f7d3e5e.js.map",
+    "787.7f724e7f.chunk.js.map": "/mental-math/static/js/787.7f724e7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba3d394f.css",
+    "static/js/main.0f7d3e5e.js"
+  ]
+}
